@@ -1,0 +1,13 @@
+name: simplechatserver
+description: >-
+  This application is example for usage of socket.io (packege dart)
+
+# version: 1.0.0
+# homepage: https://www.example.com
+
+environment:
+  sdk: '>=2.10.0 <3.0.0'
+
+dependencies:
+  path: ^1.7.0
+  socket_io: ^1.0.0
